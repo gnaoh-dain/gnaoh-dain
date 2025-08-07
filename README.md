@@ -9,7 +9,7 @@
 - 🎓 Studied **Information Technology** at Thuy Loi University (2018–2024)
 - 🧠 Currently a **Node.js Developer** at EWAY (2022–2024)
 - ✍️ Writing clean APIs, managing databases, and building CMS systems
-- 💡 Big fan of scalable architecture and beautiful UI
+- 🧑🏻‍💻 Just a platypus writing backend code with Node.js & React
 
 ---
 
