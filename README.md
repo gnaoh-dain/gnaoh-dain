@@ -1,55 +1,54 @@
 <h1 align="center">Hi there, I'm <span style="color:#F7768E;">Tô Việt Hoàng</span> 👋</h1>
 <p align="center">
-  <em>Fullstack Developer • Clean Coder • Future PM 🚀</em><br/>
-  <img src="https://komarev.com/ghpvc/?username=gnaoh-dain&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <em>A Fullstack Developer from Vietnam 🇻🇳</em>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 - 🎓 Studied **Information Technology** at Thuy Loi University (2018–2024)
-- 💼 Node.js Developer at **EWAY** (2022–2024)
-- 🛠️ Backend lover: building scalable APIs and real-world CMS systems
-- ✨ Interested in frontend polish, animations & performance
+- 🧠 Currently a **Node.js Developer** at EWAY (2022–2024)
+- ✍️ Writing clean APIs, managing databases, and building CMS systems
+- 💡 Big fan of scalable architecture and beautiful UI
 
 ---
 
-### ⚙️ Tech Stack
+### 🚀 Tech Stack
 
 **Languages & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
 </p>
 
 **Tools & Others**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Projects
-| Name | Tech | Description |
-|------|------|-------------|
-| **eKYC Gateway** | Node.js, MySQL | KYC identity verification server |
-| **eKYC CMS** | React, MUI | Admin dashboard for user & data control |
-| **eKYC Liveness Demo** | React, Tailwind | UI demo for liveness detection |
-| **Shoe Store Website** | PHP, MySQL | Solo eCommerce product |
-| **Foodiez Review App** | HTML, CSS, JS, Firebase | Final course project with team |
+### 📌 Projects
+Here are a few things I’ve worked on recently:
+
+- 🧠 **eKYC Gateway** – Node.js + MySQL API server for user identity verification
+- 🖥️ **eKYC CMS** – Admin panel with React + MUI to manage users & KYC data
+- 💡 **eKYC Liveness Demo** – Frontend demo with React + Tailwind
+- 👟 **Shoe Shop Website** – Solo eCommerce site built with PHP & MySQL
+- 🍔 **Foodiez Review App** – Firebase-powered food review site
 
 ---
 
-### 🔧 Currently Learning
-- 📘 Advanced TypeScript
-- 🐳 Docker & CI/CD
-- ⚡ React Performance Patterns
+### 🛠 Currently Learning
+- 🧠 Advanced TypeScript
+- 🐳 Docker & CI/CD Basics
+- ⚡ React Performance Optimization
 
 ---
 
@@ -62,16 +61,9 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gnaoh-dain/gnaoh-dain/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+### 📫 Connect with Me
+- 📍 Location: Ha Dong, Hanoi, Vietnam <br>
+- 📧 Email: hoangtoviet.803@gmail.com <br>
+- 🌐 Facebook: <a href="https://fb.com/tohoang0803">tohoang0803</a><br>
 
----
 
-### 📫 Contact Me
-<p>
-  📧 Email: <strong>hoangtoviet.803@gmail.com</strong><br>
-  🌐 <a href="https://fb.com/tohoang0803">Facebook</a><br>
-  📍 Location: Ha Dong, Hanoi, Vietnam
-</p>
